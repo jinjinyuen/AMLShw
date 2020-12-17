@@ -1,5 +1,6 @@
 # Applied Machine Learning System ELEC0134(20/21) Assignment
 
+You need to download shape_predictor_68_face_landmarks.dat from release at first. 
 These codes were written under Window10 system. If you would like to run it under Mac OS system, you may need to change a little bit codes. 
 For instance, in collection.py, change the '\\' to '\' in function extract_features_labels.
 
